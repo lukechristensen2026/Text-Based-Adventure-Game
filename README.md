@@ -1,3 +1,3 @@
 # Text-Based-Adventure-Game
 
-Code is the master branch
+Code is in the master branch
