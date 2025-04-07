@@ -1,5 +1,5 @@
 
-//code developed in a DePauw Computer Science Course with Sam Ortner and Eli VanHaaren.
+//code developed in a DePauw Computer Science Course with Sam Ortner and Eli VanHaaren
 import java.util.Scanner;
 
 public class Driver {
